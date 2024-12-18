@@ -4,7 +4,7 @@
 ---
 
 ### 🌱 Frameworks and Skills
-**CUDA, Zephyr RTOS, Embedded Systems, IoT, TensorFlow, PyTorch**
+**CUDA, Zephyr RTOS, Embedded Systems, IoT,Genrative AI, TensorFlow, PyTorch**
 
 ---
 
