@@ -84,7 +84,7 @@
 <tr>
   <td align="center">
     <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40"/>
+      <img src="https://img.icons8.com/?size=100&id=ewGOClUtmFX4&format=png&color=000000" alt="Flask" width="40" height="40"/>
     </a>
     <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
       <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/>
