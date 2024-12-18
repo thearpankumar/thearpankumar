@@ -71,7 +71,7 @@
       <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/>
     </a>
     <a href="https://www.nvidia.com/en-us/deep-learning-ai/" target="_blank" rel="noreferrer">
-      <img src="https://nvidianews.nvidia.com/file?fid=64e3dc1a3d6332319b2dfd35" alt="NVIDIA CUDA" width="60" height="40"/>
+      <img src="https://img.icons8.com/?size=100&id=eLp0UzmXETI1&format=png&color=000000" alt="NVIDIA CUDA" width="60" height="40"/>
     </a>
   </td>
 </tr>
