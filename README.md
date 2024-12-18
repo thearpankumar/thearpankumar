@@ -41,7 +41,7 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
     </a>
     <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="Rust" width="40" height="40"/>
+      <img src="https://us1.discourse-cdn.com/flex016/uploads/rustlang/original/2X/4/4a8fd2593e09e0d8b46077c8be519a1df94c9956.png" alt="Rust" width="40" height="40"/>
     </a>
   </td>
   <td align="center">
@@ -71,7 +71,7 @@
       <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/>
     </a>
     <a href="https://www.nvidia.com/en-us/deep-learning-ai/" target="_blank" rel="noreferrer">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/NVIDIA_logo.svg" alt="NVIDIA CUDA" width="60" height="40"/>
+      <img src="https://nvidianews.nvidia.com/file?fid=64e3dc1a3d6332319b2dfd35" alt="NVIDIA CUDA" width="60" height="40"/>
     </a>
   </td>
 </tr>
