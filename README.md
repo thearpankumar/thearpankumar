@@ -39,9 +39,10 @@
     <img src="https://skillicons.dev/icons?i=android,flutter,kotlin" />
   </td>
   <td align="center">
-    <img src="https://skillicons.dev/icons?i=arduino" />
+    <img src="https://skillicons.dev/icons?i=arduino,raspberry-pi" />
     <br/>
     <img src="https://img.icons8.com/?size=40&id=eLp0UzmXETI1&format=png&color=000000" alt="NVIDIA CUDA" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/zephyrproject-rtos/zephyr/main/doc/_static/images/kite.png" alt="Zephyr RTOS" width="40" height="40"/>
   </td>
 </tr>
 <tr>
@@ -58,7 +59,7 @@
     <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
   </td>
   <td align="center">
-    <img src="https://skillicons.dev/icons?i=redis,rabbitmq" />
+    <img src="https://skillicons.dev/icons?i=redis,rabbitmq,kafka" />
   </td>
   <td align="center">
     <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
@@ -76,7 +77,7 @@
   <td align="center">
     <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins" />
     <br/>
-    <img src="https://skillicons.dev/icons?i=githubactions" />
+    <img src="https://skillicons.dev/icons?i=githubactions,terraform" />
   </td>
   <td align="center">
     <img src="https://skillicons.dev/icons?i=prometheus,grafana" />
