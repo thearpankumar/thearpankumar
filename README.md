@@ -54,6 +54,8 @@
 <tr>
   <td align="center">
     <img src="https://skillicons.dev/icons?i=flask,django,graphql,nginx" />
+    <br/>
+    <img src="https://skillicons.dev/icons?i=cloudflare" />
   </td>
   <td align="center">
     <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
@@ -62,7 +64,7 @@
     <img src="https://skillicons.dev/icons?i=redis,rabbitmq,kafka" />
   </td>
   <td align="center">
-    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
     <br/>
     <img src="https://skillicons.dev/icons?i=anaconda" />
   </td>
@@ -83,10 +85,12 @@
     <img src="https://skillicons.dev/icons?i=prometheus,grafana" />
   </td>
   <td align="center">
-    <img src="https://skillicons.dev/icons?i=ubuntu,linux" />
+    <img src="https://skillicons.dev/icons?i=ubuntu,linux,arch" />
   </td>
   <td align="center">
     <img src="https://skillicons.dev/icons?i=git,neovim,vscode" />
+    <br/>
+    <img src="https://skillicons.dev/icons?i=postman" />
   </td>
 </tr>
 </table>
