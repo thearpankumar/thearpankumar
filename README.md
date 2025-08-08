@@ -19,34 +19,76 @@
 
 ### 🛠️ Languages and Tools
 
-<div align="center">
-
-**Programming Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=c,python,java,js,rust" />
-
-**Cloud Platforms & Databases**
-<br/>
-<img src="https://skillicons.dev/icons?i=aws,gcp,mysql,postgresql" />
-
-**Web Development**
-<br/>
-<img src="https://skillicons.dev/icons?i=flask,django,graphql" />
-
-**Mobile Development**
-<br/>
-<img src="https://skillicons.dev/icons?i=android,flutter,kotlin" />
-
-**DevOps & Tools**
-<br/>
-<img src="https://skillicons.dev/icons?i=git,docker,kubernetes,redis,rabbitmq" />
-
-**IoT & Embedded Systems**
-<br/>
-<img src="https://skillicons.dev/icons?i=arduino" />
-<img src="https://img.icons8.com/?size=48&id=eLp0UzmXETI1&format=png&color=000000" alt="NVIDIA CUDA" width="48" height="48"/>
-
-</div>
+<table align="center">
+<tr>
+  <th>Programming Languages</th>
+  <th>Cloud Platforms</th>
+  <th>Android and Mobile</th>
+  <th>IoT and Embedded Systems</th>
+</tr>
+<tr>
+  <td align="center">
+    <img src="https://skillicons.dev/icons?i=c,python,java,js,rust" />
+  </td>
+  <td align="center">
+    <img src="https://skillicons.dev/icons?i=aws,gcp" />
+    <br/>
+    <img src="https://img.icons8.com/?size=40&id=VLKafOkk3sBX&format=png&color=000000" alt="MSSQL" width="40" height="40"/>
+  </td>
+  <td align="center">
+    <img src="https://skillicons.dev/icons?i=android,flutter,kotlin" />
+  </td>
+  <td align="center">
+    <img src="https://skillicons.dev/icons?i=arduino" />
+    <br/>
+    <img src="https://img.icons8.com/?size=40&id=eLp0UzmXETI1&format=png&color=000000" alt="NVIDIA CUDA" width="40" height="40"/>
+  </td>
+</tr>
+<tr>
+  <th>Web Development</th>
+  <th>Databases</th>
+  <th>Message Brokers & Caching</th>
+  <th>AI/ML & Data Science</th>
+</tr>
+<tr>
+  <td align="center">
+    <img src="https://skillicons.dev/icons?i=flask,django,graphql,nginx" />
+  </td>
+  <td align="center">
+    <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+  </td>
+  <td align="center">
+    <img src="https://skillicons.dev/icons?i=redis,rabbitmq" />
+  </td>
+  <td align="center">
+    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+    <br/>
+    <img src="https://skillicons.dev/icons?i=anaconda" />
+  </td>
+</tr>
+<tr>
+  <th>DevOps & CI/CD</th>
+  <th>Monitoring & Observability</th>
+  <th>Operating Systems</th>
+  <th>Development Tools</th>
+</tr>
+<tr>
+  <td align="center">
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins" />
+    <br/>
+    <img src="https://skillicons.dev/icons?i=githubactions" />
+  </td>
+  <td align="center">
+    <img src="https://skillicons.dev/icons?i=prometheus,grafana" />
+  </td>
+  <td align="center">
+    <img src="https://skillicons.dev/icons?i=ubuntu,linux" />
+  </td>
+  <td align="center">
+    <img src="https://skillicons.dev/icons?i=git,neovim,vscode" />
+  </td>
+</tr>
+</table>
 
 ---
 
