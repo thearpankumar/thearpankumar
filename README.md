@@ -28,8 +28,10 @@
 </tr>
 <tr>
   <td align="center">
-    <img src="https://skillicons.dev/icons?i=c,python,rust" />
-  </td>
+  <img src="https://skillicons.dev/icons?i=c" alt="C" />
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=rust" alt="Rust" />
+</td>
   <td align="center">
     <img src="https://skillicons.dev/icons?i=aws,gcp" />
     <br/>
