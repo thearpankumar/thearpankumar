@@ -54,11 +54,15 @@
   <th>AI/ML & Data Science</th>
 </tr>
 <td align="center">
-  <img src="https://skillicons.dev/icons?i=flask,django,graphql,nginx" alt="Flask, Django, GraphQL, Nginx" />
+  <img src="https://skillicons.dev/icons?i=flask" alt="Flask" />
+  <img src="https://skillicons.dev/icons?i=django" alt="Django" />
   <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/fastapi-icon.svg" alt="FastAPI" width="48" height="48" style="background-color:#1c1c1c; padding:6px; border-radius:8px;" />
+  <img src="https://skillicons.dev/icons?i=graphql" alt="GraphQL" />
+  <img src="https://skillicons.dev/icons?i=nginx" alt="Nginx" />
   <br/>
   <img src="https://skillicons.dev/icons?i=cloudflare" alt="Cloudflare" />
 </td>
+
   <td align="center">
     <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
   </td>
