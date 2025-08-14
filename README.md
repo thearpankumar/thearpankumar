@@ -53,9 +53,9 @@
   <th>Message Brokers & Caching</th>
   <th>AI/ML & Data Science</th>
 </tr>
-<tr>
-  <td align="center">
-  <img src="https://skillicons.dev/icons?i=flask,django,fastapi,graphql,nginx" alt="Flask, Django, FastAPI, GraphQL, Nginx" />
+<td align="center">
+  <img src="https://skillicons.dev/icons?i=flask,django,graphql,nginx" alt="Flask, Django, GraphQL, Nginx" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/fastapi.svg" alt="FastAPI" width="48" height="48" />
   <br/>
   <img src="https://skillicons.dev/icons?i=cloudflare" alt="Cloudflare" />
 </td>
