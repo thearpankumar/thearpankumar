@@ -55,10 +55,10 @@
 </tr>
 <tr>
   <td align="center">
-    <img src="https://skillicons.dev/icons?i=flask,django,graphql,nginx" />
-    <br/>
-    <img src="https://skillicons.dev/icons?i=cloudflare" />
-  </td>
+  <img src="https://skillicons.dev/icons?i=flask,django,fastapi,graphql,nginx" alt="Flask, Django, FastAPI, GraphQL, Nginx" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=cloudflare" alt="Cloudflare" />
+</td>
   <td align="center">
     <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
   </td>
