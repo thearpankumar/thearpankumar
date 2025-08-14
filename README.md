@@ -28,7 +28,7 @@
 </tr>
 <tr>
   <td align="center">
-    <img src="https://skillicons.dev/icons?i=c,python,java,js,rust" />
+    <img src="https://skillicons.dev/icons?i=c,python,rust" />
   </td>
   <td align="center">
     <img src="https://skillicons.dev/icons?i=aws,gcp" />
