@@ -55,7 +55,7 @@
 </tr>
 <td align="center">
   <img src="https://skillicons.dev/icons?i=flask,django,graphql,nginx" alt="Flask, Django, GraphQL, Nginx" />
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/fastapi.svg" alt="FastAPI" width="48" height="48" />
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/fastapi-icon.svg" alt="FastAPI" width="48" height="48" style="background-color:#1c1c1c; padding:6px; border-radius:8px;" />
   <br/>
   <img src="https://skillicons.dev/icons?i=cloudflare" alt="Cloudflare" />
 </td>
