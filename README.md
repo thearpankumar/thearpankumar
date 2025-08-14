@@ -41,11 +41,11 @@
     <img src="https://skillicons.dev/icons?i=android,flutter,kotlin" />
   </td>
   <td align="center">
-    <img src="https://skillicons.dev/icons?i=arduino,raspberry-pi" />
-    <br/>
-    <img src="https://img.icons8.com/?size=40&id=eLp0UzmXETI1&format=png&color=000000" alt="NVIDIA CUDA" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/zephyrproject-rtos/zephyr/main/doc/_static/images/kite.png" alt="Zephyr RTOS" width="40" height="40"/>
-  </td>
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" alt="Arduino, Raspberry Pi" />
+  <br/>
+  <img src="https://img.icons8.com/?size=40&id=eLp0UzmXETI1&format=png&color=000000" alt="NVIDIA CUDA" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/zephyrproject-rtos/zephyr/main/doc/_static/images/kite.png" alt="Zephyr RTOS" width="40" height="40" />
+</td>
 </tr>
 <tr>
   <th>Web Development</th>
