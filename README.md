@@ -3,7 +3,7 @@
 
 ---
 
-<h3 align="centre"> Frameworks and Skills</h3>h3
+<h3 align="centre"> Frameworks and Skills </h3>
 **CUDA, Zephyr RTOS, Embedded Systems, IoT, Generative AI, TensorFlow, PyTorch, AgenticAI-(n8n)**
 
 ---
