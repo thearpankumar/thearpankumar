@@ -1,5 +1,12 @@
-<h4 align="centre"><img src="intro.gif" alt="👋 Hi there! I'm Arpan Kumar" title="👋 Hi there! I'm Arpan
-  Kumar"/></h4>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=👋+Hi+there!+I'm+Arpan+Kumar&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=+Bionics+Developer+|+Building+the+Future+with+AI&descSize=18&descAlignY=55" width="100%" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=50&lines=⚡+Coding+the+Future+with+AI+;+Neural+Networks+%26+Robotics+;+CUDA+|+Zephyr+RTOS+|+IoT+" alt="Skills Typing SVG" />
+</div>
+
 <h3 align="center">A Bionics Developer</h3>
 
 ---
