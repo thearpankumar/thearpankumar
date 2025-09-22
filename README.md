@@ -1,5 +1,5 @@
-[<img src="intro.gif" alt="👋 Hi there! I'm Arpan Kumar" title="👋 Hi there! I'm Arpan
-  Kumar"/>](https://your-portfolio-url.com)
+<h4 align="centre"><img src="intro.gif" alt="👋 Hi there! I'm Arpan Kumar" title="👋 Hi there! I'm Arpan
+  Kumar"/></h4>
 <h3 align="center">A Bionics Developer</h3>
 
 ---
