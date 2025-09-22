@@ -1,4 +1,4 @@
-[<img src="https://raw.githubusercontent.com/thearpankumar/thearpankumar/main/intro.gif" alt="👋 Hi there! I'm Arpan Kumar" title="👋 Hi there! I'm Arpan
+[<img src="intro.gif" alt="👋 Hi there! I'm Arpan Kumar" title="👋 Hi there! I'm Arpan
   Kumar"/>](https://your-portfolio-url.com)
 <h3 align="center">A Bionics Developer</h3>
 
