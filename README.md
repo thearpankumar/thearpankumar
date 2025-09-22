@@ -7,7 +7,7 @@
   <img src="giphy.gif" alt="GIF" />
 </p>
 
-<h3 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 1.8em; color: #ffffff; letter-spacing: 1px; font-weight: 600; text-shadow: 2px 2px 4px rgba(0,0,0,0.5);">
+<h3 align="center" style="font-family: monospace; font-size: 1.8em; color: #ffffff; letter-spacing: 1px; font-weight: 600; text-shadow: 2px 2px 4px rgba(0,0,0,0.5);">
   - Your Friendly Neighbourhood Developer ;) -
 </h3>
 
