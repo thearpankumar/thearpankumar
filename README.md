@@ -4,12 +4,12 @@
 </div>
 
 <p align="center">
-  <img src="giphy.gif" alt="GIF" />
+  <img src="giphy.gif" alt="GIF" width="300" height="300" />
 </p>
 
-<h3 align="center" style="font-family: monospace; font-size: 1.8em; color: #ffffff; letter-spacing: 1px; font-weight: 600; text-shadow: 2px 2px 4px rgba(0,0,0,0.5);">
-  - Your Friendly Neighbourhood Developer ;) -
-</h3>
+<h2 align="center">
+  <code>- Your Friendly Neighbourhood Developer ;) -</code>
+</h2>
 
 ---
 
