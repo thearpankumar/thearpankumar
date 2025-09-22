@@ -3,24 +3,26 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=👋+Hi+there!+I'm+Arpan+Kumar&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=+Bionics+Developer+|+Building+the+Future+with+AI&descSize=18&descAlignY=55" width="100%" />
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=50&lines=⚡+Coding+the+Future+with+AI+;+Neural+Networks+%26+Robotics+;+CUDA+|+Zephyr+RTOS+|+IoT+" alt="Skills Typing SVG" />
-</div>
+<p align="center">
+  <img src="giphy.gif" alt="GIF" />
+</p>
 
-<h3 align="center">A Bionics Developer</h3>
+<h3 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 1.8em; color: #ffffff; letter-spacing: 1px; font-weight: 600; text-shadow: 2px 2px 4px rgba(0,0,0,0.5);">
+  - Your Friendly Neighbourhood Developer ;) -
+</h3>
 
 ---
 
 <h3 align="center"> Frameworks and Skills </h3>
-<h4> CUDA, Zephyr RTOS, Embedded Systems, IoT, Generative AI, TensorFlow, PyTorch, AgenticAI-(n8n) </h4>
+<h4 align="center"> CUDA, Zephyr RTOS, Embedded Systems, IoT, Generative AI, TensorFlow, PyTorch, AgenticAI-(n8n) </h4>
 
 ---
 
 ### 
-<p align="left">
+<p align="center">
   <a href="https://instagram.com/arpankumar1119" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arpankumar1119" height="30" width="40" />
-  </a> <h3>arpankumar1119</h3>
+  </a> <h3 align="center">arpankumar1119</h3>
 </p>
 
 ---
