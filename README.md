@@ -8,7 +8,7 @@
 </p>
 
 <h2 align="center">
-  <code>- Your Friendly Neighbourhood Developer ;) -</code>
+  <code><mark>- Your Friendly Neighbourhood Developer ;) -</mark></code>
 </h2>
 
 ---
