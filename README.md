@@ -99,7 +99,7 @@
     <img src="https://skillicons.dev/icons?i=prometheus,grafana" />
   </td>
   <td align="center">
-    <img src="https://skillicons.dev/icons?i=ubuntu,linux,arch,redhat" />
+    <img src="https://skillicons.dev/icons?i=ubuntu,arch,redhat" />
   </td>
   <td align="center">
     <img src="https://skillicons.dev/icons?i=git,neovim,vscode" />
