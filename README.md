@@ -43,9 +43,7 @@
 </tr>
 <tr>
   <td align="center">
-  <img src="https://skillicons.dev/icons?i=c" alt="C" />
-  <img src="https://skillicons.dev/icons?i=python" alt="Python" />
-  <img src="https://skillicons.dev/icons?i=rust" alt="Rust" />
+  <img src="https://skillicons.dev/icons?i=c,python,rust,go" alt="c-python-rust-go" />
 </td>
   <td align="center">
     <img src="https://skillicons.dev/icons?i=aws,gcp" />
@@ -53,7 +51,7 @@
     <img src="https://img.icons8.com/?size=40&id=VLKafOkk3sBX&format=png&color=000000" alt="MSSQL" width="40" height="40"/>
   </td>
   <td align="center">
-    <img src="https://skillicons.dev/icons?i=android,flutter,kotlin" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,flutter,kotlin" />
   </td>
   <td align="center">
   <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" alt="Arduino, Raspberry Pi" />
