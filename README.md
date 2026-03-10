@@ -114,7 +114,14 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thearpankumar&show_icons=true&locale=en&layout=compact" alt="thearpankumar" />
-</p>
+### 📊 GitHub Stats:
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=thearpankumar&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
+![](https://nirzak-streak-stats.vercel.app/?user=thearpankumar&theme=gruvbox&hide_border=false)<br/>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=thearpankumar&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+</div>
