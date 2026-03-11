@@ -118,10 +118,6 @@
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=thearpankumar&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)<br/>
-
-![](https://nirzak-streak-stats.vercel.app/?user=thearpankumar&theme=gruvbox&hide_border=false)<br/>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=thearpankumar&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://nirzak-streak-stats.vercel.app/?user=thearpankumar&theme=gruvbox&hide_border=false)
 
 </div>
